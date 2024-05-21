@@ -1,5 +1,5 @@
 cd Playwright
 
-yarn install --frozen-lockfile
+npm install
 
-yarn playwright test --project=local-chrome specs/test.spec.ts
+npx playwright test --project=local-chrome specs/test.spec.ts
