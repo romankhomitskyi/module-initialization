@@ -1,0 +1,27 @@
+{
+  "name": "Playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.2.0",
+    "@faker-js/faker": "8.4.1",
+    "@playwright/test": "^1.44.0",
+    "@types/luxon": "3.4.2",
+    "@types/node": "20.12.10",
+    "dotenv": "16.4.5",
+    "eslint": "9.2.0",
+    "eslint-plugin-playwright": "^1.6.1",
+    "glob": "^10.3.15",
+    "luxon": "3.4.4",
+    "madge": "^7.0.0",
+    "prettier": "3.2.5",
+    "remeda": "^1.61.0",
+    "tsx": "^4.10.4",
+    "typescript": "5.4.5",
+    "typescript-eslint": "^7.9.0"
+  },
+  "dependencies": {
+    "openai": "^4.24.0"
+  }
+}
