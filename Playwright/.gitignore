@@ -1,0 +1,10 @@
+node_modules/
+/test-results**
+/playwright-report/
+/all-blob-reports/blob-report/
+/blob-report
+/playwright/.cache/
+/.env
+/storage
+specs_*.txt
+/json-report
